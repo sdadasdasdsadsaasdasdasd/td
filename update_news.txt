@@ -1,25 +1,26 @@
-🚀 SHAX Tools - Update News
+🚀 SHAX TOOLS - UPDATE NEWS
 
-Version 1.0.1 (15.02.2024)
+Version 1.0.1 (February 15, 2024)
 ─────────────────────
-✓ Neue Features:
-  - RP Ticket Bot hinzugefügt
-  - AFK Bot implementiert
-  - Verbesserte GUI
+✓ New Features:
+  - RP Ticket Bot added
+  - AFK Bot implemented
+  - Improved GUI design
 
 ✓ Bug Fixes:
-  - Login-Probleme behoben
-  - Performance optimiert
+  - Login issues resolved
+  - Performance optimizations
+  - Memory usage reduced
 
-✓ Sonstiges:
-  - Neue Discord-Integration
-  - Bessere Fehlerbehandlung
+✓ Improvements:
+  - Better error handling
+  - Faster loading times
+  - Enhanced stability
 
 ─────────────────────
-Nächste Updates geplant:
-- Weitere Bots
-- Custom Themes
-- Mehr Automatisierung
+Coming Soon:
+- More automation bots
+- Custom themes
+- Advanced settings
 
-Folge uns auf Discord für mehr Infos!
-https://discord.gg/shax
+Stay tuned for more updates!
