@@ -5,22 +5,17 @@ Version 1.0.1 (February 16, 2026)
 ✓ New Features:
   - RP Ticket Bot added
   - AFK Bot implemented
-  - Improved GUI design
-
-✓ Bug Fixes:
-  - Login issues resolved
-  - Performance optimizations
-  - Memory usage reduced
-
-✓ Improvements:
-  - Better error handling
-  - Faster loading times
-  - Enhanced stability
+  - Unload Feature
+  - Socials Tab with infos
 
 ─────────────────────
 Coming Soon:
-- More automation bots
-- Custom themes
+- More bots
+- More features for the RP Ticket Bot
 - Advanced settings
 
 Stay tuned for more updates!
+
+─────────────────────
+developer: 7aybee
+discord.gg/shax
