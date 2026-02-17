@@ -1,0 +1,19 @@
+
+## Kurze Version für einen schnellen Post:
+
+```markdown
+# SHAX Elite Loader - Complete Version
+
+✅ Working features:
+- Custom fire animation window
+- License authentication with demo keys
+- Game selection dashboard (no scrollbar!)
+- Transparent logos with fallback placeholders
+- News system with GitHub integration
+- Session management
+- Discord integration
+
+## Quick Start
+```bash
+pip install pillow pyperclip
+python login_gui.py
